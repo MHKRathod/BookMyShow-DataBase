@@ -1,4 +1,4 @@
-# BookMyShow Database Design Assignment
+## Project submission for BookMyShow database design assignment.
 
 ## Overview
 
